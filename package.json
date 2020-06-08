@@ -1,6 +1,6 @@
 {
   "name": "prettier-config-cristianl",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "index.js",
   "author": "Cristian Lorsson <cristian@cristian.im>",
   "license": "MIT"

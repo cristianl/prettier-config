@@ -2,8 +2,9 @@
 
 ## Changes to default config
 
-- Don't use semicolons
+- No semicolons
 - Use single quotes
+- 72 characters per line
 
 ## Usage
 
