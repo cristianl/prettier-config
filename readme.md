@@ -12,15 +12,15 @@ Add to *package.json*:
 
 ```json
 {
-  "prettier": "prettier-config-cristianl"
+  "prettier": "@cristianl/prettier-config"
 }
 ```
 
-If a project needs a config override, do not add the above line to package.json. Instead, create a *prettier.config.js* file:
+If you must override this config for a project, do not add that line to package.json. Instead, create a *prettier.config.js* file:
 
 ```js
 module.exports = {
-  ...require('prettier-config-cristianl'),
+  ...require('@cristianl/prettier-config'),
   // custom properties below
 }
 ```
