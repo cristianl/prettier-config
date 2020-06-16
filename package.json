@@ -2,9 +2,7 @@
   "name": "@cristianl/prettier-config",
   "version": "0.0.3",
   "main": "index.js",
-  "author": "Cristian Lorsson <cristian@cristian.im>",
-  "license": "MIT",
-  "publishConfig": {
-    "registry": "https://registry.npmjs.org/"
-  }
+  "repository": "https://github.com/cristianl/prettier-config",
+  "author": "Cristian Lorsson <cristian+npm@cristian.im>",
+  "license": "MIT"
 }
