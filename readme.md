@@ -4,7 +4,6 @@
 
 - No semicolons
 - Use single quotes
-- 72 characters per line
 
 ## Usage
 
